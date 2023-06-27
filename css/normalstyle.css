@@ -322,7 +322,7 @@ h1{
 
 
 #java-script:hover{
-  background-image: url(/images/logo-javascript.svg);
+  background-image: url(../images/logo-javascript.svg);
 }
 #java-script:hover #java-intro {
   color: var(--font-color-tiny);
@@ -375,7 +375,7 @@ h1{
   text-align: justify;
 }
 #java-script{
-  background-image: url(images/Digital_rain_animation_small_letters_clear.gif);
+  background-image: url(../images/Digital_rain_animation_small_letters_clear.gif);
 }
 #css-wrapper{
   background: linear-gradient(to right, var(--color-less-blue), var(--color-blue), var(--color-darkerblue));
