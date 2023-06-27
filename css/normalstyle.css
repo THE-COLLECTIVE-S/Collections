@@ -322,7 +322,7 @@ h1{
 
 
 #java-script:hover{
-  background-image: url(images/logo-javascript.svg);
+  background-image: url(/images/logo-javascript.svg);
 }
 #java-script:hover #java-intro {
   color: var(--font-color-tiny);
